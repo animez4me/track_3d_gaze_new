@@ -1,0 +1,8 @@
+prefix=/home/alexandros/catkin_ws/src/track_3d_gaze/cmake-build-debug/devel
+
+Name: track_3d_gaze
+Description: Description of track_3d_gaze
+Version: 0.0.0
+Cflags: -I/home/alexandros/catkin_ws/src/track_3d_gaze/cmake-build-debug/devel/include
+Libs: -L/home/alexandros/catkin_ws/src/track_3d_gaze/cmake-build-debug/devel/lib 
+Requires: roscpp sensor_msgs cv_bridge std_msgs image_transport

@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: track_3d_gaze
+Description: Description of track_3d_gaze
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: roscpp sensor_msgs cv_bridge std_msgs image_transport
